@@ -51,20 +51,6 @@
         app:layout_constraintVertical_bias="0.431" />
 
     <Button
-        android:id="@+id/datosusuario"
-        android:layout_width="230dp"
-        android:layout_height="56dp"
-        android:backgroundTint="@color/bluel"
-        android:text="Datos usuario"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.528" />
-
-    <Button
         android:id="@+id/buttoncsesion"
         android:layout_width="230dp"
         android:layout_height="56dp"
