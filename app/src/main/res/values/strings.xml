@@ -26,8 +26,8 @@ Al utilizar nuestra Aplicación, aceptas cumplir con estas Condiciones de Uso. �
     <string name="titulo">CONDICIONES Y TERMINOS DE USO</string>
     <string name="title_activity_ajustes_usuario">AjustesUsuario</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="calendario">Calendario</string>
     <string name="sobrenosotrostitulo">SOBRE NOSOTROS</string>
     <string name="sobrenosotroscontenido">
 Hugo Martínez Priego es un profesional especializado en Inteligencia Artificial y Big Data, con una sólida formación en desarrollo de software y ciberseguridad. Actualmente se encuentra cursando una Especialización en Inteligencia Artificial y Big Data en Terrassa, en el centro educativo Vedruna Vall, desde el año 2023 hasta la actualidad.
@@ -48,4 +48,6 @@ Antes de su formación en desarrollo de aplicaciones, Iván completó un Grado S
 
 Iván comenzó su formación en el ámbito de la informática con un Grado Medio en Sistemas Microinformáticos y Redes en Terrassa, en el centro educativo Vedruna Vall, durante el período 2019-2021. Durante este ciclo formativo, Iván adquirió una sólida base en sistemas microinformáticos y redes, lo que le proporcionó los conocimientos necesarios para iniciar su carrera profesional en el campo de la informática y la tecnología.</string>
     <string name="contactanostitulo">CONTACTANOS</string>
+    <string name="title_notifications">Notificaciones\n</string>
+    <string name="title_dashboard">Ajustes</string>
 </resources>
